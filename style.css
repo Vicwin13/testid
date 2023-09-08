@@ -44,7 +44,5 @@ div.container {
 }
 
 .time{
-    display: flex;
-    justify-content: space-around;
-    padding: .3rem 0;
+    padding: .5rem 0;
 }
